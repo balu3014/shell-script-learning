@@ -4,8 +4,8 @@ $!/bin/bash
 FRUITS=("APPLE" "MANGO" "BANNANA")
 
 
-echo "first value: ${FRUITS[0]}"
+echo "First Value: ${FRUITS[0]}"
 
-echo "second value: ${FRUITS[1]}"
+echo "Second Value: ${FRUITS[1]}"
 
-echo "third value: ${FRUITS[2]}"
+echo "Third Value: ${FRUITS[2]}"
